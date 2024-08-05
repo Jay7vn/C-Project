@@ -13,21 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jayde\\source\\repos\\CSharp-Project\\HelloFromCSharp\\HelloFromCSharp.csproj",
+      "projectUniqueName": "c:\\Users\\jayde\\source\\repos\\CSharp-Project\\HelloFromCSharp\\HelloFromCSharp.csproj",
       "projectName": "HelloFromCSharp",
-      "projectPath": "C:\\Users\\jayde\\source\\repos\\CSharp-Project\\HelloFromCSharp\\HelloFromCSharp.csproj",
+      "projectPath": "c:\\Users\\jayde\\source\\repos\\CSharp-Project\\HelloFromCSharp\\HelloFromCSharp.csproj",
       "packagesPath": "C:\\Users\\jayde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jayde\\source\\repos\\CSharp-Project\\HelloFromCSharp\\obj\\",
+      "outputPath": "c:\\Users\\jayde\\source\\repos\\CSharp-Project\\HelloFromCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jayde\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\jayde\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

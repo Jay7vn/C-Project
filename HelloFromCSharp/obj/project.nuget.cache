@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zBnoK5SOd8d6nrqMtUtf1FLpVKCUwjQwdPV0M15gpi1yrcu0vPEUWnm6ZfPrl//Hywy8Y+A4RwNAIyDOlphFuA==",
+  "dgSpecHash": "gUL3giiJe9Vg+rcM5Wd4qdq+E682C0xC7XUFwewiERF+khbIHWT50riYmR4yB+L4HumEc8i1j5i7E8HP1a+EyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jayde\\source\\repos\\CSharp-Project\\HelloFromCSharp\\HelloFromCSharp.csproj",
+  "projectFilePath": "c:\\Users\\jayde\\source\\repos\\CSharp-Project\\HelloFromCSharp\\HelloFromCSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
