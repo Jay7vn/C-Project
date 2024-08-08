@@ -1,10 +1,6 @@
 ﻿
 Console.WriteLine("Welcome to our Pie Shop!");
 
-Console.WriteLine("Please enter your name: ");
-
-string name = Console.ReadLine();
-
 int monthlyWage = 1234;
 
 int months = 12, bonus = 1000;
@@ -22,5 +18,26 @@ hoursWorked = 125;
 
 const double interestRate = 0.07;
 
-String firstName = "Jayden";
-String lastName = "Nguyen";
+string firstName = "Jayden";
+string lastName = "Nguyen";
+
+string emptyString = String.Empty;
+
+Console.WriteLine("Please enter your name: ");
+string name = Console.ReadLine();
+
+double ratePerHour = 12.78;
+int numberOfHoursWorked = 165;
+
+double currentMonthlyWage = ratePerHour * numberOfHoursWorked;
+
+ratePerHour += 3;
+
+if (currentMonthlyWage > 2000)
+{
+    Console.WriteLine("Top paid Employee!");
+}
+
+int numberOfEmployees = 15;
+numberOfEmployees--;
+

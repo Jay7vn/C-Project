@@ -1,0 +1,15 @@
+C:\Users\jayde\source\repos\CSharp-Project\PieShop\bin\Debug\net8.0\PieShop.exe
+C:\Users\jayde\source\repos\CSharp-Project\PieShop\bin\Debug\net8.0\PieShop.deps.json
+C:\Users\jayde\source\repos\CSharp-Project\PieShop\bin\Debug\net8.0\PieShop.runtimeconfig.json
+C:\Users\jayde\source\repos\CSharp-Project\PieShop\bin\Debug\net8.0\PieShop.dll
+C:\Users\jayde\source\repos\CSharp-Project\PieShop\bin\Debug\net8.0\PieShop.pdb
+C:\Users\jayde\source\repos\CSharp-Project\PieShop\obj\Debug\net8.0\PieShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayde\source\repos\CSharp-Project\PieShop\obj\Debug\net8.0\PieShop.AssemblyInfoInputs.cache
+C:\Users\jayde\source\repos\CSharp-Project\PieShop\obj\Debug\net8.0\PieShop.AssemblyInfo.cs
+C:\Users\jayde\source\repos\CSharp-Project\PieShop\obj\Debug\net8.0\PieShop.csproj.CoreCompileInputs.cache
+C:\Users\jayde\source\repos\CSharp-Project\PieShop\obj\Debug\net8.0\PieShop.sourcelink.json
+C:\Users\jayde\source\repos\CSharp-Project\PieShop\obj\Debug\net8.0\PieShop.dll
+C:\Users\jayde\source\repos\CSharp-Project\PieShop\obj\Debug\net8.0\refint\PieShop.dll
+C:\Users\jayde\source\repos\CSharp-Project\PieShop\obj\Debug\net8.0\PieShop.pdb
+C:\Users\jayde\source\repos\CSharp-Project\PieShop\obj\Debug\net8.0\PieShop.genruntimeconfig.cache
+C:\Users\jayde\source\repos\CSharp-Project\PieShop\obj\Debug\net8.0\ref\PieShop.dll

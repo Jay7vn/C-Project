@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PieShop": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
