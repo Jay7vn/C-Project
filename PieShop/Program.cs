@@ -35,7 +35,7 @@ ratePerHour += 3;
 
 if (currentMonthlyWage > 2000)
 {
-    Console.WriteLine("Top paid Employee!");
+    Console.WriteLine("Newest Top paid Employee!");
 }
 
 int numberOfEmployees = 15;
