@@ -26,7 +26,7 @@ string emptyString = String.Empty;
 Console.WriteLine("Please enter your name: ");
 string name = Console.ReadLine();
 
-double ratePerHour = 12.78;
+double ratePerHour = 13.01;
 int numberOfHoursWorked = 165;
 
 double currentMonthlyWage = ratePerHour * numberOfHoursWorked;
