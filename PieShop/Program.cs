@@ -1,5 +1,5 @@
 ﻿
-Console.WriteLine("Welcome to our Pie Shop!");
+Console.WriteLine("Welcome to our Pie Deluxe Shop!");
 
 int monthlyWage = 1234;
 
