@@ -23,7 +23,7 @@ string lastName = "Nguyen";
 
 string emptyString = String.Empty;
 
-Console.WriteLine("Please enter your name: ");
+Console.WriteLine("Please enter your name please: ");
 string name = Console.ReadLine();
 
 double ratePerHour = 13.01;
