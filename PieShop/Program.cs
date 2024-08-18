@@ -19,7 +19,7 @@ hoursWorked = 125;
 const double interestRate = 0.07;
 
 string firstName = "Jayden";
-string middleName = "";
+string middleName = "Vinh";
 string lastName = "Nguyen";
 
 string emptyString = String.Empty;
